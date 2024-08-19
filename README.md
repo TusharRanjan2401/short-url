@@ -6,3 +6,9 @@ Installation of packages
 ```bash
 npm install
 ```
+## Start
+```bash
+npm start
+```
+## Author
+https://github.com/TusharRanjan2401
